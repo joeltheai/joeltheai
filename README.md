@@ -3,7 +3,8 @@
 Currently working at my apartment troubleshooting mt neovim config...
 
 
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeltheai&show_icons=true&theme=radical)
+![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeltheai&show_icons=true&theme=vue)
+
 
 <!--
 **joeltheai/joeltheai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
