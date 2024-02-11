@@ -3,7 +3,7 @@
 Currently working at my apartment troubleshooting mt neovim config...
 
 
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeltheai&show_icons=true&theme=vue)
+![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeltheai&show_icons=true&theme=transparent)
 
 
 <!--
