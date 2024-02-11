@@ -1,7 +1,8 @@
-# Hi there 👋
+## Hello  💤
 
 Currently working at my apartment troubleshooting mt neovim config...
 
+### Look at my stats
 
 ![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeltheai&show_icons=true&theme=transparent)
 
