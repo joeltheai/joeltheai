@@ -1,6 +1,7 @@
 ## Hello  💤
 
-Currently working at my apartment troubleshooting mt neovim config...
+Currently working at my apartment on 
+- troubleshooting my neovim config...
 
 ### Look at my stats
 
