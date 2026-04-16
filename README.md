@@ -3,10 +3,6 @@
 Currently working at my apartment on 
 - troubleshooting my neovim config...
 
-### Look at my stats
-
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeltheai&show_icons=true&theme=transparent)
-
 
 <!--
 **joeltheai/joeltheai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
